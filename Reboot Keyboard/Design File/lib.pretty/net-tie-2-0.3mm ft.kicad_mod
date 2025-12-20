@@ -1,0 +1,79 @@
+(footprint "net-tie-2-0.3mm ft"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7a7fe94b-790b-4b62-bf5d-ee7c0858e6a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a42af117-60fd-4cd4-94a1-5757c6c8a6b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "180fc07e-cd5c-4f5a-8984-b7febc596fe6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b42afb79-fa3c-4c0e-b2c0-796f54a6d55c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 0.4 0.15) (xy -0.4 0.15) (xy -0.4 -0.15) (xy 0.4 -0.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "9f2e206e-e5fd-4482-9ebc-2ed1072f5ed2")
+	)
+	(pad "1" smd circle
+		(at -0.4 0)
+		(size 0.3 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "a561f020-6f15-4c7c-b1a3-4f7023d9a54a")
+	)
+	(pad "2" smd circle
+		(at 0.4 0)
+		(size 0.3 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "b28da1ef-c974-44a8-9368-427edee1094d")
+	)
+	(embedded_fonts no)
+)

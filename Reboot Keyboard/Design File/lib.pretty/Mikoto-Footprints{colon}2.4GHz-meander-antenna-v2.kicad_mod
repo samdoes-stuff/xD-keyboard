@@ -1,0 +1,160 @@
+(footprint "Mikoto-Footprints{colon}2.4GHz-meander-antenna-v2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "96d3c314-4e51-4972-bd82-acf60588ad28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "688876ab-4af1-4449-af9e-7788ba24efce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e2eb24a-54f2-46c2-aef0-b4fd55bcffc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e99bc0ea-6b8d-4f18-a3bd-fe142769788c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4.874 1.472)
+		(end -4.874 -1.4925)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "2e701e6f-6658-41e8-afe7-1d75e55738fc")
+	)
+	(fp_line
+		(start -2.9945 1.472)
+		(end -4.874 1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "812b1502-3499-4ac1-9a20-95cd5f19d690")
+	)
+	(fp_line
+		(start -2.9945 1.472)
+		(end -2.9945 -1.497)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "b936dd45-ea5d-430a-b3a7-8be6c92a3b4c")
+	)
+	(fp_line
+		(start -1.0385 -1.497)
+		(end -2.9945 -1.497)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "23e352a0-ab74-413e-95d9-f86221987089")
+	)
+	(fp_line
+		(start -1.0385 1.472)
+		(end -1.0385 -1.497)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "9d8163fe-a376-4347-903a-153e93017bba")
+	)
+	(fp_line
+		(start 0.9425 1.472)
+		(end -1.0385 1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "98587723-ff76-4d9b-a2e6-8f488dda7c48")
+	)
+	(fp_line
+		(start 0.9425 1.472)
+		(end 0.9425 -1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "d7e5ddc9-6ed8-4c70-b762-3154e2f7719f")
+	)
+	(fp_line
+		(start 3 -1.472)
+		(end 0.9425 -1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "73a0e9f5-c9bb-401a-8647-6e79c01ee4e3")
+	)
+	(fp_line
+		(start 3 1.472)
+		(end 3 -1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "286c05cc-fc13-4caa-8e18-75a7a9050c0b")
+	)
+	(fp_line
+		(start 6.5 1.472)
+		(end 3 1.472)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "1ab2e11d-5cb8-420c-9d6d-4a0be856332e")
+	)
+	(pad "1" smd circle
+		(at 6.5 1.5)
+		(size 0.2 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "fe976d70-2195-4aeb-b553-eaa92f887e0b")
+	)
+	(embedded_fonts no)
+)

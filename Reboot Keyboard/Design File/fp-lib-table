@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ProPrj_Keyboard_2025-12-19")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_Keyboard_2025-12-19.pretty")(options "")(descr ""))
-)

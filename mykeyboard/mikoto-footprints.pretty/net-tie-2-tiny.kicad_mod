@@ -1,0 +1,86 @@
+(footprint "net-tie-2-tiny"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "net tie")
+	(property "Reference" "REF**"
+		(at 0 -0.855 0)
+		(layer "Eco2.User")
+		(uuid "9eedc445-370d-42ff-b489-9ff2f6176882")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Value" "net-tie-2-tiny"
+		(at 0 -0.5 0)
+		(layer "F.Fab")
+		(uuid "0110bb55-a7b0-4825-a069-a2f0b9e4cde9")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "253ae95a-c94a-4316-bc2b-9f8c6ce38a72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b47496e-dcc9-4d74-9d22-d9ef5f7abcf4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(clearance 0.000001)
+	(zone_connect 0)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(net_tie_pad_groups "1, 2")
+	(fp_poly
+		(pts
+			(xy 0.15 0.075) (xy -0.15 0.075) (xy -0.15 -0.075) (xy 0.15 -0.075)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "c8ce6da3-23ae-4b53-abd0-2521e6a88cb0")
+	)
+	(pad "1" smd circle
+		(at -0.15 0)
+		(size 0.15 0.15)
+		(layers "F.Cu")
+		(clearance 0.000001)
+		(zone_connect 0)
+		(uuid "39665fc0-e6d3-452c-b371-b87d7e4336e9")
+	)
+	(pad "2" smd circle
+		(at 0.15 0)
+		(size 0.15 0.15)
+		(layers "F.Cu")
+		(clearance 0.000001)
+		(zone_connect 0)
+		(uuid "44414a78-ba41-4fd8-9fbf-c0373e85a3b2")
+	)
+	(embedded_fonts no)
+)

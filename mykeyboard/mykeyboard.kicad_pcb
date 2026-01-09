@@ -66870,7 +66870,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "084aec72-cd4f-4010-ae67-9b79c72cc515")
 	)
 	(gr_arc
@@ -66881,7 +66881,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "09a1b4e5-c3df-4577-a731-7474909de8bd")
 	)
 	(gr_line
@@ -66891,7 +66891,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "448a7458-e0b5-4bdc-98fe-b6382961d534")
 	)
 	(gr_line
@@ -66901,7 +66901,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "5e955954-97a3-4aef-bbd4-283cfcd0e6bc")
 	)
 	(gr_arc
@@ -66912,7 +66912,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "613cdf35-217a-461d-a6fa-83ca9ca026a8")
 	)
 	(gr_line
@@ -66922,7 +66922,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "797e5deb-c8f1-4d63-aa26-1de1543f1f25")
 	)
 	(gr_arc
@@ -66933,7 +66933,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "8534a50d-9cf1-4abf-915f-84c033f6fccb")
 	)
 	(gr_arc
@@ -66944,7 +66944,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Margin")
 		(uuid "d7644dce-be4e-4d73-b4b4-fa9c528205e5")
 	)
 	(gr_text "HACKCLUB"

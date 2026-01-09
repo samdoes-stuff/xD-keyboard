@@ -918,7 +918,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "../../../mykeyboard.dsn",
-      "step": "",
+      "step": "../3D/mykeyboard.step",
       "svg": "",
       "vrml": ""
     },
